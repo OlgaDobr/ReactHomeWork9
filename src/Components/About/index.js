@@ -3,13 +3,13 @@ const About = () => {
     return (
         <div>
             <div>
-                name: name
+                name: Olga
             </div>
             <div>
-                phone: 12345
+                phone: 8952 835 12 30
             </div>
             <div>
-                mail: hewfdc@mail.vv
+                mail: andromeda2005@bk.ru
             </div>
         </div>
     )
