@@ -6,6 +6,9 @@ class Receipts extends React.Component {
         return (
             <div>
                 Receipts
+                
+          
+
 
             </div>
         )

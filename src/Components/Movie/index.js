@@ -3,10 +3,10 @@ const Movie = () => {
     return (
         <div>
             <div>
-                name movie: name
+                name movie: Из вне
             </div>
             <div>
-                year: 1998
+                year: 2023
             </div>
             <div>
                 mail: hewfdc@mail.vv

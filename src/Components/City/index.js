@@ -4,9 +4,9 @@ const City = () => {
     return (
         <div>
             <div>
-                country: jwyfe
+                country: Россия
                 <br/>
-                city: htd
+                city: Краснодар
             </div>
             <div>
                 photos:
